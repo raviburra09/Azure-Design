@@ -53,6 +53,7 @@ Initial release of the stencil and bonus SVG and PNG versions. I built a convers
 For requests, issues, idea sharing or just a quick G'Day please use the contact details below.
 <br></br>
 David Summers - Author - https://twitter.com/Xeeva_D3  
+Ravi Burra- Contributor/learner - https://twitter.com/raviBurra3
 
 ## License
 
